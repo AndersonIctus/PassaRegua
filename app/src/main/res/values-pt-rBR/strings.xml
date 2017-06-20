@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Passa Regua</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_language">Idioma</string>
+
+    <string name="section_format">Olá mundo da Seção: %1$d</string>
+    <string name="add_principal">Adicionar Item</string>
+
+    <string name="title_activity_settings">Title Activity Setting</string>
+</resources>
